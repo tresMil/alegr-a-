@@ -1,0 +1,318 @@
+#EXTM3U
+#EXTINF:-1, tvg-logo="" group-title="Leeme",- [COLOR cyan]CANALES PREMIUM CLARO [/COLOR] -
+http://127.0.0.1
+ 
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",AEHD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/aehd.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",AMC
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/amc.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",ANIM_PLANET
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/anim_planet.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",AXN
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/axn.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",AZCORAZON
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/azcorazon.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",AZMUNDO
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/azmundo.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",BOOMERANG
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/boomerang.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",C1NEMAX
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/c1nemax.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",CABLENOTICIAS
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/cablenoticias.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",CARACOL
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/caracol.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",CARACOL_INT
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/caracol_int.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",CART_NET
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/cart_net.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",CC
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/cc.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",CINECANAL
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/cinecanal.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",CINELATINO
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/cinelatino.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",CINEMA_DINAMITA
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/cinema_dinamita.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",CITYTV
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/citytv.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",CNNEE
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/cnnee.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",CONCERT
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/concert.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",D1SNEY
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/d1sney.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",D1SNEYJR
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/d1sneyjr.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",D1SNEYXD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/d1sneyxd.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",DEPELICULA
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/depelicula.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",DHE
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/dhe.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",DISC_CIVIL
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/disc_civil.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",DISC_HH
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/disc_hh.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",DISC_KIDS
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/disc_kids.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",DISC_SCIENCE
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/disc_science.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",DISC_THEATER
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/disc_theater.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",DISC_TURBO
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/disc_turbo.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",DISC_WORLD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/disc_world.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",DISCOVERY_CHANNEL_HD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/discovery_channel_hd.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",DW
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/dw.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",DW_AMERIKA
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/dw_amerika.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",E_ENT
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/e_ent.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",ELGOURMET
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/elgourmet.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",ESPN2_KR
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn2_kr.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",ESPN3_KR
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn3_kr.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",ESPN_KR
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn_kr.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",ESPN_PLUS
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn_plus.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",ESTRELLAS_LATAM
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/estrellas_latam.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",EUROCHANNEL
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/eurochannel.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",F0X
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",F0X_ACTION
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_action.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",F0X_CINEMA
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_cinema.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",F0X_CINEMA_SUB
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_cinema_sub.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",F0X_CLASSICS
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_classics.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",F0X_COMEDY
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_comedy.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",F0X_FAMILY
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_family.php/index.m3u8
+#
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",F0X_MOVIES
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_movies.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",F0X_MX
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_mx.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",F0X_SERIES
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_series.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",F0X_SERIES_SUB
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_series_sub.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",F0XLIFE
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xlife.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",F0XSPORTS
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",F0XSPORTS2
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports2.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",F0XSPORTS2MX
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports2mx.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",F0XSPORTS3
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports3.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",F0XSPORTS3MX
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports3mx.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",F0XSPORTSMX
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsportsmx.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",FX
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/fx.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",FX_MX
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/fx_mx.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",FXM
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/fxm.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",GOLDEN
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/golden.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",GOLDP
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/goldp.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",GOLFCHANNEL
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/golfchannel.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",H2
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/h2.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",HB02
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb02.php/index.m3u8
+#EX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",HB0FAM
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0fam.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",HB0HD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0hd.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",HB0HD_SUB
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0hd_sub.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",HB0PLUS
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0plus.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",HB0SIGN
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0sign.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",HISTORY
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/history.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",HOLA
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/hola.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",IDHD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/idhd.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",ISAT
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/isat.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",M4XPRIME
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/m4xprime.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",M4XUP
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/m4xup.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",MTVHD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/mtvhd.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",MTVHITS
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/mtvhits.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",MTVL1VE
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/mtvl1ve.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",MULTIPREMIER
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/multipremier.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",NATGEO
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/natgeo.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",NATGEO_KIDS
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/natgeo_kids.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",NATGEO_KIDS_MX
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/natgeo_kids_mx.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",NATGEO_MX
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/natgeo_mx.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",NICK
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/nick.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",NICK2
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/nick2.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",PARAM
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/param.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",RAI
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/rai.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",RCN_TLN
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/rcn_tln.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",SONY
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/sony.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",SPACE-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/space-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",SPACE
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/space.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",STDIO_UNIV
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/stdio_univ.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",SUNDANCE
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/sundance.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",TBS
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/tbs.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",TCM
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/tcm.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",TELEMUN_INT
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/telemun_int.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",TLC
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/tlc.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",TNT-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/tnt-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",TNT
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/tnt.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",TNT_SER-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/tnt_ser-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",TNT_SER
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/tnt_ser.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",TOONCAST
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/tooncast.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",TRUTV_HD-SD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/trutv_hd-q3.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",TRUTV_HD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/trutv_hd.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",TV5
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/tv5.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",TVE
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/tve.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",UNICABLE
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/unicable.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",UNIVERS
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/univers.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",UNO
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/uno.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",VEPLUS
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/veplus.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",VH1
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/vh1.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",VH1CLASS
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/vh1class.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",VH1HD
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/vh1hd.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",WARNER
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/warner.php/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="CLARO",WINSPORTS
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/winsports.php/index.m3u8
